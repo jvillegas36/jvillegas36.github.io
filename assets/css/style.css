@@ -1,0 +1,15 @@
+body, ul{
+    margin: 0px;
+    /* background-color:#e6e6ff; */
+    color: black;
+}
+
+
+section[id]{
+    scroll-margin-top:150px ;
+}
+
+.cursos img{
+    height: 180px;
+    
+}
