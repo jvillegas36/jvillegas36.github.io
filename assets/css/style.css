@@ -1,15 +1,23 @@
-body, ul{
-    margin: 0px;
-    /* background-color:#e6e6ff; */
-    color: black;
+body,
+ul {
+  margin: 0px;
+  background-color: #66785F;
+  color: white;
 }
 
-
-section[id]{
-    scroll-margin-top:150px ;
+section[id] {
+  scroll-margin-top: 150px;
 }
 
-.cursos img{
-    height: 180px;
-    
+.cursos img {
+  height: 190px;
 }
+
+.sectionColor {
+  background-color: #152733;
+}
+
+.sectionColor ul {
+  background-color: #152733;
+}
+
