@@ -1,6 +1,6 @@
 # Curriculum Jorge Villegas
-## Proyectos Forkeados
 
+## Proyectos Forkeados
 
 [Fork 01](https://github.com/jvillegas36/isra-osvaldo.github.io)
 
