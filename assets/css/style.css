@@ -1,7 +1,7 @@
 body,
 ul {
   margin: 0px;
-  background-color: #66785F;
+  background-color: #66785f;
   color: white;
 }
 
@@ -20,4 +20,3 @@ section[id] {
 .sectionColor ul {
   background-color: #152733;
 }
-
