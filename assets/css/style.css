@@ -5,6 +5,10 @@ ul {
   color: white;
 }
 
+.navbar {
+  border-radius: 15px
+  
+}
 section[id] {
   scroll-margin-top: 150px;
 }
@@ -15,6 +19,7 @@ section[id] {
 
 .sectionColor {
   background-color: #152733;
+  border-radius: 15px
 }
 
 .sectionColor ul {
