@@ -1,8 +1,26 @@
 body,
 ul {
-  margin: 0px;
-  background-color: #66785f;
+  background-color: #cbd9d0;
   color: white;
+}
+
+.navbar {
+    height: 110px;
+    width: 100%;
+    background-color: #ed7182
+}
+
+.navbar a{
+    font-size: 20px;
+}
+
+.navbar img{
+    width: 100px;
+    height: 100px;
+}
+
+.navbar ul{
+    background-color:#ed7182;
 }
 
 section[id] {
@@ -14,9 +32,9 @@ section[id] {
 }
 
 .sectionColor {
-  background-color: #152733;
+    background-color: #5b9dac;
 }
 
-.sectionColor ul {
-  background-color: #152733;
-}
+    .sectionColor ul {
+        background-color: #5b9dac;
+    }
